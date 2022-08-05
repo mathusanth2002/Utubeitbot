@@ -7,7 +7,7 @@
   "env": {
       "BOT_TOKEN": {
       "description": "Your Bot token. Get from https://t.me/botfather",
-      "value": ""
+      "value": "5485848281:AAECnvCl7wOF_SpAzLE3WebAgbJXA8i7Rd4"
     },
     "SESSION_NAME": {
       "description": "Your Bot's username.",
@@ -16,11 +16,11 @@
     },
     "API_ID": {
       "description": "Your API_ID.  Refer project docs.",
-      "value": ""
+      "value": "5615631"
     },
     "API_HASH": {
       "description": "Your API_ID. Refer project docs.",
-      "value": ""
+      "value": "f65d600ff580456871cfddc086337b7a"
     },
     "CLIENT_ID": {
       "description": "Your Google CLIENT_ID. Refer project docs.",
