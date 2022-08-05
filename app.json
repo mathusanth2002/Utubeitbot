@@ -24,11 +24,11 @@
     },
     "CLIENT_ID": {
       "description": "Your Google CLIENT_ID. Refer project docs.",
-      "value": ""
+      "value": "921912615039-42h2eg2tsqcmbig6mae5df8vai54mbff.apps.googleusercontent.com"
     },
     "CLIENT_SECRET": {
       "description": "Your Google CLIENT_SECRET. Refer project docs.",
-      "value": ""
+      "value": "GnsnVpyT3DT9cJStuexDOJ55"
     },
     "BOT_OWNER": {
       "description": "Telegram id of the bot owner.",
